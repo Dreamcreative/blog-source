@@ -1,4 +1,9 @@
-﻿# 第六章 面向对象的程序设计 (**Object-Oriented Programming OOP**)
+﻿---
+title: JavaScript高级程序设计第六章
+date: 2019-09-09 10:45:54
+tags: JavaScript高级程序设计第六章
+---
+# 第六章 面向对象的程序设计 (**Object-Oriented Programming OOP**)
 
 **ECMAscript 中没有类的概念**,因此它的对象与基本类的语言中的对象有所区别
 每个对象都是基于一个引用类型的散列表:无非就是一组键值对
